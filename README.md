@@ -22,3 +22,9 @@ A non-traditional learning environment has the potential to implement the best p
   
 However, there is a need for best practices and shared resources for disseminating and utilizing these strategies. Additionally, there is ample opportunity to tailor this specifically for R education. What are the standards for these informal courses for teaching applications of a programming language, and how can we evaluate the success of these opportunities for different audiences and objectives? What types of support could improve instructor experiences? How can the learner experience be improved, from adoption of instructional techniques to the integration of other resources? Can pedagogical techniques commonly employed in more formal contexts, such as active learning, be adapted to much shorter periods of instruction? How can advances in educational technology can support the teaching of R and RStudio in synchronized contexts? And finally, how do we ensure that learners are able to apply and extend what they’ve learned beyond this short-form educational opportunity and attendant resources?   
   
+## Authors
+  
+[Diya Das](https://diyadas.github.io/)  
+[Angela Li](https://angela-li.github.io/)
+[Katherine Simeon](https://katherinesimeon.github.io/)  
+  
