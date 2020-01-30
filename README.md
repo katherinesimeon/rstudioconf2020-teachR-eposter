@@ -25,6 +25,6 @@ However, there is a need for best practices and shared resources for disseminati
 ## Authors
   
 [Diya Das](https://diyadas.github.io/)  
-[Angela Li](https://angela-li.github.io/)
+[Angela Li](https://angela-li.github.io/)  
 [Katherine Simeon](https://katherinesimeon.github.io/)  
   
