@@ -13,6 +13,9 @@ This repo contains the [.pdf](https://github.com/katherinesimeon/rstudioconf2020
    
 ![poster](https://raw.githubusercontent.com/katherinesimeon/rstudioconf2020-teachR-eposter/master/rstudioconf_eposter_screenshot.png)
   
+  
+During the poster presentation, the poster contained a gif that rotated through a twitter discussion re: how we incorporate teaching into our work (top right). For readability, a [link to this Twitter thread](https://twitter.com/CivicAngela/status/1215009493291094029) is included in the .pdf version in lieu of the gif. Additionally, you can see the images used the generate the poster gif in the [rstats-tweets](https://github.com/katherinesimeon/rstudioconf2020-teachR-eposter/tree/master/rstats-tweets) subdirectory.  
+  
    
 ## Abstract  
   
