@@ -29,5 +29,9 @@ However, there is a need for best practices and shared resources for disseminati
   
 [Diya Das](https://diyadas.github.io/)  
 [Angela Li](https://angela-li.github.io/)  
-[Katherine Simeon](https://katherinesimeon.github.io/)  
+[Katherine Simeon](https://katherinesimeon.github.io/)    
+  
+## Additional Resources  
+  
+We've added a subdirectory with related resources [here](https://github.com/katherinesimeon/rstudioconf2020-teachR-eposter/tree/master/resources).   
   
